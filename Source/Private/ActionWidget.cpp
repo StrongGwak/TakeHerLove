@@ -17,9 +17,11 @@ void UActionWidget::NativeOnInitialized()
 	int ActionCount = 1;
 	for (int i = 0; i < ActionArray.Num(); i++) {
 		if (ActionArray[i].IsShow) {
+			// WB_Action의 버튼과 연결
 			FString ButtonName = FString::Printf(TEXT("ActionButton%d"), ActionCount++);
 			FName path = FName(*ButtonName);
 			button = Cast<UActionButton>(GetWidgetFromName(path));
+			// 구조체의 정보 버튼에 할당
 			button->ActionStruct = ActionArray[i];
 			button->ActionName->SetText(FText::FromString(ActionArray[i].ActionName));
 			button->RenderOpacity = 1;
@@ -30,6 +32,7 @@ void UActionWidget::NativeOnInitialized()
 	float Radius = 300.0f;
 	float Angle = 360.0f / (ActionCount - 1);
 
+	// 플레이어 캐릭터 주변으로 버튼 위치 할당
 	for (int i = 0; i < ActionCount - 1; i++) {
 		float Radians = FMath::DegreesToRadians(Angle * i);
 		float X = Radius * FMath::Cos(Radians);
