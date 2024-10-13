@@ -179,7 +179,8 @@
               "RelativeToolTip": "BTTask_Talk.cpp",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:32.211Z"
+              "WhenOpened": "2024-10-13T07:18:32.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +192,8 @@
               "RelativeToolTip": "BTTask_StorageToHole.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:30.403Z"
+              "WhenOpened": "2024-10-13T07:18:30.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +205,8 @@
               "RelativeToolTip": "BTTask_StorageToDoor.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:28.225Z"
+              "WhenOpened": "2024-10-13T07:18:28.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,7 +218,8 @@
               "RelativeToolTip": "BTTask_StorageTalk.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:25.87Z"
+              "WhenOpened": "2024-10-13T07:18:25.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -227,7 +231,8 @@
               "RelativeToolTip": "BTTask_StartCook.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:20.763Z"
+              "WhenOpened": "2024-10-13T07:18:20.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -239,7 +244,8 @@
               "RelativeToolTip": "BTTask_OpenFrontDoor.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:17.134Z"
+              "WhenOpened": "2024-10-13T07:18:17.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,7 +257,8 @@
               "RelativeToolTip": "BTTask_OpenDoor.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:12.848Z"
+              "WhenOpened": "2024-10-13T07:18:12.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -263,7 +270,8 @@
               "RelativeToolTip": "BTTask_IsHoleTalk.cpp",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:09.684Z"
+              "WhenOpened": "2024-10-13T07:18:09.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -275,7 +283,8 @@
               "RelativeToolTip": "BTTask_HoleToFatherDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:08.782Z"
+              "WhenOpened": "2024-10-13T07:18:08.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -287,7 +296,8 @@
               "RelativeToolTip": "BTTask_HoleToCook.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:06.942Z"
+              "WhenOpened": "2024-10-13T07:18:06.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -299,7 +309,8 @@
               "RelativeToolTip": "BTTask_HelloToPlayer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:05.892Z"
+              "WhenOpened": "2024-10-13T07:18:05.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -311,7 +322,8 @@
               "RelativeToolTip": "BTTask_GrandMotherToGirl.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:05.205Z"
+              "WhenOpened": "2024-10-13T07:18:05.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -323,7 +335,8 @@
               "RelativeToolTip": "BTTask_GrandMotherToDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:04.504Z"
+              "WhenOpened": "2024-10-13T07:18:04.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -335,7 +348,8 @@
               "RelativeToolTip": "BTTask_GirlToDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:03.822Z"
+              "WhenOpened": "2024-10-13T07:18:03.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -347,7 +361,8 @@
               "RelativeToolTip": "BTTask_GirlToBalconyDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:03.078Z"
+              "WhenOpened": "2024-10-13T07:18:03.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -359,7 +374,8 @@
               "RelativeToolTip": "BTTask_FatherToDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:02.407Z"
+              "WhenOpened": "2024-10-13T07:18:02.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -371,7 +387,8 @@
               "RelativeToolTip": "BTTask_FarherToGrandMotherDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:01.531Z"
+              "WhenOpened": "2024-10-13T07:18:01.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -383,7 +400,8 @@
               "RelativeToolTip": "BTTask_DoorToStorage.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:18:00.532Z"
+              "WhenOpened": "2024-10-13T07:18:00.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -395,7 +413,8 @@
               "RelativeToolTip": "BTTask_DoorToHole.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:59.88Z"
+              "WhenOpened": "2024-10-13T07:17:59.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -407,7 +426,8 @@
               "RelativeToolTip": "BTTask_DoorToGrandMother.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:59.272Z"
+              "WhenOpened": "2024-10-13T07:17:59.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -419,7 +439,8 @@
               "RelativeToolTip": "BTTask_DoorToGirl.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:58.341Z"
+              "WhenOpened": "2024-10-13T07:17:58.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -431,7 +452,8 @@
               "RelativeToolTip": "BTTask_DoorToFather.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:57.463Z"
+              "WhenOpened": "2024-10-13T07:17:57.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -443,7 +465,8 @@
               "RelativeToolTip": "BTTask_DoorToCook.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:56.843Z"
+              "WhenOpened": "2024-10-13T07:17:56.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -455,7 +478,8 @@
               "RelativeToolTip": "BTTask_DoorToBalcony.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:56.101Z"
+              "WhenOpened": "2024-10-13T07:17:56.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -467,7 +491,8 @@
               "RelativeToolTip": "BTTask_CorridorTalk.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:55.332Z"
+              "WhenOpened": "2024-10-13T07:17:55.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -479,7 +504,8 @@
               "RelativeToolTip": "BTTask_CookToStorageDoor.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:51.884Z"
+              "WhenOpened": "2024-10-13T07:17:51.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -491,7 +517,8 @@
               "RelativeToolTip": "BTTask_CookToHole.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:45.744Z"
+              "WhenOpened": "2024-10-13T07:17:45.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -503,7 +530,8 @@
               "RelativeToolTip": "BTTask_ClearTextBlock.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:44.647Z"
+              "WhenOpened": "2024-10-13T07:17:44.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -515,7 +543,8 @@
               "RelativeToolTip": "BTTask_ClearFocus.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:43.82Z"
+              "WhenOpened": "2024-10-13T07:17:43.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -527,7 +556,8 @@
               "RelativeToolTip": "BTTaskNode_GrandMotherRoomTalk.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:41.547Z"
+              "WhenOpened": "2024-10-13T07:17:41.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -539,7 +569,8 @@
               "RelativeToolTip": "BTTaskNode_GirlRoomTalk.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:40.58Z"
+              "WhenOpened": "2024-10-13T07:17:40.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -551,7 +582,8 @@
               "RelativeToolTip": "BTTaskNode_FatherRoomTalk.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:39.593Z"
+              "WhenOpened": "2024-10-13T07:17:39.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -563,7 +595,8 @@
               "RelativeToolTip": "BTTaskNode_BalconyTalk.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:38.128Z"
+              "WhenOpened": "2024-10-13T07:17:38.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -575,7 +608,8 @@
               "RelativeToolTip": "BTTaks_StorageToDoor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:34.554Z"
+              "WhenOpened": "2024-10-13T07:17:34.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -587,7 +621,8 @@
               "RelativeToolTip": "BTService_CheckPlayerLocation.cpp",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-13T07:17:16.818Z"
+              "WhenOpened": "2024-10-13T07:17:16.818Z",
+              "EditorCaption": ""
             }
           ]
         }

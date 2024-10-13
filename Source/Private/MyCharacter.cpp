@@ -232,27 +232,34 @@ void AMyCharacter::RunEnd()
 
 void AMyCharacter::Interaction()
 {
+	// 입력 무시
 	bIgnoreInput = true;
+	// 위젯 생성 판별
 	bOnWidget = true;
+	// 캐릭터 정지
 	CharacterMovement->StopActiveMovement();
 
+	// 상호작용 가능하 오브젝트인지 식별
 	if (OldHitComponent->ComponentHasTag("InteractObject"))
 	{
+		// 해당 오브젝트의 Interact 함수 실행
 		FOutputDeviceNull ar;
 		HitActor->CallFunctionByNameWithArguments(TEXT("Interact"), ar, nullptr, true);
 	}
-
-	if (OldHitComponent->ComponentHasTag("Enemy"))
+	else if (OldHitComponent->ComponentHasTag("Enemy"))
 	{
+		// 대상이 AI라면 AI함수 실행
 		CallAI(true);
 	}
 
 	ActionWidget = CreateWidget(GetWorld()->GetFirstPlayerController(), ActionWidgetClass);
 	UActionWidget* ActionWidgetCpp = Cast<UActionWidget>(ActionWidget);
-	TArray<UActionButton*> b = ActionWidgetCpp->Buttons;
-	for (int i = 0; i < b.Num(); i++) 
+	// 위젯에 할당된 ActionButton 배열 호출
+	TArray<UActionButton*> buttons = ActionWidgetCpp->Buttons;
+	for (int i = 0; i < buttons.Num(); i++)
 	{
-		UActionButton* button = b[i];
+		UActionButton* button = buttons[i];
+		// 버튼의 OnClicked 함수 바인딩된 델리게이트 함수와 CallActionButtonClick 함수를 바인딩
 		button->Func_Action.BindUFunction(this, "CallActionButtonClick");
 	}
 	ActionWidgetOn();
@@ -275,13 +282,18 @@ void AMyCharacter::Cancel()
 
 void AMyCharacter::CallActionButtonClick(FActionStruct ActionStruct)
 {
+	// 입력 무시
 	bIgnoreInput = true;
+	// 위젯 종료
 	bOnWidget = false;
+	// 카메라 회전은 Yaw만 허용
 	SpringArm->bUsePawnControlRotation = false;
 	SpringArm->bInheritRoll = false;
+	// 애니메이션 실행 시간
 	float Rate = PlayAnimMontage(ActionStruct.ActionAnim);
 	ActionWidgetOff();
 
+	// 애니메이션 종료시 입력 허용 및 카메라 회전 정상
 	FTimerHandle Handle;
 	FTimerDelegate Callback = FTimerDelegate::CreateLambda([this]() 
 	{ 
@@ -289,12 +301,12 @@ void AMyCharacter::CallActionButtonClick(FActionStruct ActionStruct)
 		SpringArm->bUsePawnControlRotation = true;
 		SpringArm->bInheritRoll = true;
 	});
-
 	GetWorld()->GetTimerManager().SetTimer(Handle, Callback, Rate, false);
 
 	if (OldHitComponent->ComponentHasTag("InteractObject"))
 	{
 		FOutputDeviceNull ar;
+		// 상호작용 오브젝트의 특별한 기능을 실행할 때 해당 함수이름으로 실행
 		if (!ActionStruct.FunctionName.IsEmpty()) 
 		{
 			FString FormattedFunctionName = FString::Printf(TEXT("%s"), *ActionStruct.FunctionName);
